@@ -3,7 +3,7 @@ stack: jdk 11
 
 branches:
   only:
-  - pass
+  - main
   
   build: off
   
